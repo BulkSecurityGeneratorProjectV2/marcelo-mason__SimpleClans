@@ -165,7 +165,7 @@
         <snapshotRepository>
             <id>SacredCoding</id>
             <name>SacredCoding-snapshots</name>
-            <url>http://104.236.246.108:8081/artifactory/plugins-release-local</url>
+            <url>https://104.236.246.108:8081/artifactory/plugins-release-local</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
